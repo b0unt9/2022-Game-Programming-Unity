@@ -51,9 +51,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\MainMenu.cs" />
-     <Compile Include="Assets\Script\RemoveRubble.cs" />
-     <Compile Include="Assets\Script\TheStackver2.cs" />
+     <Compile Include="Assets\Script\Menu.cs" />
+     <Compile Include="Assets\Script\Game.cs" />
      <None Include="Assets\Shader\V.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity 207.1.0f3 old/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
